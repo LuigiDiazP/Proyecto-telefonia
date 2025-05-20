@@ -1,0 +1,21 @@
+{
+  "dispositivos": [
+    {
+      "id": 1,
+      "marca": "Apple",
+      "modelo": "iPhone 13",
+      "color": "Azul",
+      "almacenamiento": "128GB",
+      "procesador": "A15 Bionic"
+    },
+    {
+      "id": 2,
+      "marca": "Samsung",
+      "modelo": "Galaxy S22",
+      "color": "Negro",
+      "almacenamiento": "256GB",
+      "procesador": "Exynos 2200"
+    }
+  ]
+}
+
